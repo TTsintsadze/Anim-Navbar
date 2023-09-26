@@ -7,5 +7,5 @@
 	</a>
 </div>
 
-- [Solution][]
-- [Live Page][]
+- [Solution][https://github.com/TTsintsadze/Anim-Navbar]
+- [Live Page][https://anim-navbar.vercel.app/]
